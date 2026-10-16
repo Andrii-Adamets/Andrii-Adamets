@@ -1,4 +1,12 @@
-## Hi there 👋
+##👋 Hi, I'm Andrii
+
+I'm a Data Analyst who genuinely enjoys uncovering hidden patterns, spotting unexpected trends, and finding insights that make decision-making easier.
+
+For five years, I created architectural 3D models and visualizations of houses. I helped people choose new designs, rethink their home layouts, and even figure out whether a new exterior would suit two golden retrievers.
+
+But over time, I became interested in looking at things on a bigger scale. I wanted to dig deeper into problems, uncover patterns, and influence decisions that shape business growth. That's how I found my way into Data Analytics.
+
+Today, I can help you and your company make better business decisions backed by data.
 
 <!--
 **Andrii-Adamets/Andrii-Adamets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
