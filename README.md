@@ -1,4 +1,4 @@
-##👋 Hi, I'm Andrii
+## 👋 Hi, I'm Andrii
 
 I'm a Data Analyst who genuinely enjoys uncovering hidden patterns, spotting unexpected trends, and finding insights that make decision-making easier.
 
